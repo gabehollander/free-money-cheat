@@ -1,0 +1,16 @@
+{
+  "name": "carbo",
+  "version": "1.0.0",
+  "description": "free money cheat dependencies.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "g",
+  "license": "ISC",
+  "dependencies": {
+    "chart.js": "^2.9.3",
+    "fs": "0.0.1-security",
+    "node-binance-api": "^0.9.9"
+  }
+}
